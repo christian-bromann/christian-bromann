@@ -37,6 +37,6 @@
     </a>
 </p>
 
-<p>
+<p align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=christian-bromann" alt="christian-bromann" />
 </p>
