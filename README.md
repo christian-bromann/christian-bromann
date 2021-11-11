@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Open Source & Open Standards Advocate.</h3>
 
-- 🔭&nbsp;I’m currently working at [ActiveCove](https://github.com/activecove)
+- 🔭&nbsp;I’m currently working at **[ActiveCove](https://github.com/activecove)**
 
 - 🤝&nbsp;I’m automating things with **[WebdriverIO](https://webdriver.io/)**
 
-- 📝&nbsp;I regulary write articles on [my blog](https://bromann.dev)
+- 📝&nbsp;I regulary write articles in **[my blog](https://bromann.dev)**
 
 - 💬&nbsp;Ask me about **WebdriverIO / Test Automation / Node.js / TypeScript**
 
