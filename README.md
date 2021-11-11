@@ -9,7 +9,7 @@
 
 - 💬&nbsp;Ask me about **WebdriverIO / Test Automation / Node.js / TypeScript**
 
-- ⚡&nbsp;Fun fact **I grew on the country side in Germany next to 🐮 and 🐔**
+- ⚡&nbsp;Fun fact **I grew up on the country side in Germany next to 🐮 and 🐔**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
