@@ -26,10 +26,13 @@
 
 <p align="center">
     <a href="https://twitter.com/bromann" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bromann" height="30" width="30" />
+        <img align="center" src="https://img.shields.io/twitter/follow/bromann?style=social" alt="bromann" />
     </a>
     <a href="https://www.linkedin.com/in/christian-bromann/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/christian-bromann/" height="30" width="30" />
+        <img align="center" src="https://img.shields.io/badge/-christianbromann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-bromann/" alt="https://www.linkedin.com/in/christian-bromann/" />
+    </a>
+    <a href="https://github.com/christian-bromann" target="blank">
+        <img align="center" src="https://img.shields.io/github/followers/thaiane?label=follow&style=social" alt="christian-bromann" />
     </a>
 </p>
 
