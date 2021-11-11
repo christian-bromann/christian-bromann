@@ -14,10 +14,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Starting a new chapter at ActiveCove](https://bromann.dev/post/a-new-chapter/)
-- [Contact](https://bromann.dev/contact/)
-- [About](https://bromann.dev/about/)
-- [Darn... Page not found.](https://bromann.dev/404/)
-- [Licenses](https://bromann.dev/licenses/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>
