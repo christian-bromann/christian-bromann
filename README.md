@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Christian</h1>
+<h3 align="center">Open Source & Open Standards Advocate.</h3>
 
-<!--
-**christian-bromann/christian-bromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭&nbsp;I’m currently working at [ActiveCove](https://github.com/activecove)
 
-Here are some ideas to get you started:
+- 🤝&nbsp;I’m automating things with **[WebdriverIO](https://webdriver.io/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝&nbsp;I regulary write articles on [my blog](https://bromann.dev)
+
+- 💬&nbsp;Ask me about **WebdriverIO / Test Automation / Node.js / TypeScript**
+
+- ⚡&nbsp;Fun fact **I grew on the country side in Germany next to 🐮 and 🐔**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-bromann&layout=compact&hide=html" alt="christian-bromann" />
+</p>
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=christian-bromann&show_icons=true&count_private=true" alt="christian-bromann" width="50%"/>
+</p>
+
+<p align="center">
+    <a href="https://twitter.com/bromann" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bromann" height="30" width="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/christian-bromann/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/christian-bromann/" height="30" width="30" />
+    </a>
+    <img align="center" src="https://komarev.com/ghpvc/?username=christian-bromann" alt="christian-bromann" />
+</p
