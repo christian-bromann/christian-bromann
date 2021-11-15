@@ -32,7 +32,7 @@
         <img align="center" src="https://img.shields.io/badge/-christianbromann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-bromann/" alt="https://www.linkedin.com/in/christian-bromann/" />
     </a>
     <a href="https://github.com/christian-bromann" target="blank">
-        <img align="center" src="https://img.shields.io/github/followers/thaiane?label=follow&style=social" alt="christian-bromann" />
+        <img align="center" src="https://img.shields.io/github/followers/christian-bromann?label=follow&style=social" alt="christian-bromann" />
     </a>
 </p>
 
