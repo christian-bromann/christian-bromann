@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Starting a new chapter at ActiveCove](https://bromann.dev/post/a-new-chapter/)
+- [Starting a new chapter at Stateful](https://bromann.dev/post/a-new-chapter/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>
