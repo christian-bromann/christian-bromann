@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Sync App State across JS Sandboxes without Stumbling over postMessage &amp; onMessage Playing “Telephone”](https://bromann.dev/post/playing-the-telephone-game/)
 - [My First Website in the Local News at the Age of 16](https://bromann.dev/post/my-first-website/)
 - [Starting a new chapter at Stateful](https://bromann.dev/post/a-new-chapter/)
 <!-- BLOG-POST-LIST:END -->
