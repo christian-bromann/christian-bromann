@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-    <a href="https://app.stateful.com/status/christian-bromann" target="blank">
-        <img align="center" src="https://badge.stateful.com/christian-bromann/status" alt="christian-bromann" />
+    <a href="https://stateful.com/@christian-bromann" target="blank">
+        <img align="center" src="https://badge.stateful.com/christian-bromann/status.svg" alt="Stateful status for christian-bromann" />
     </a>
-    <a href="https://github.com/christian-bromann" target="blank">
-        <img align="center" src="https://badge.stateful.com/christian-bromann/dnd" alt="christian-bromann" />
+    <a href="https://stateful.com/@christian-bromann" target="blank">
+        <img align="center" src="https://badge.stateful.com/christian-bromann/dnd.svg" alt="Stateful status for christian-bromann" />
     </a>
 </p>
 
