@@ -36,6 +36,12 @@
     <a href="https://github.com/christian-bromann" target="blank">
         <img align="center" src="https://img.shields.io/github/followers/christian-bromann?label=follow&style=social" alt="christian-bromann" />
     </a>
+    <a href="https://app.stateful.com/status/christian-bromann" target="blank">
+        <img align="center" src="https://badge.stateful.com/christian-bromann/status" alt="christian-bromann" />
+    </a>
+    <a href="https://github.com/christian-bromann" target="blank">
+        <img align="center" src="https://badge.stateful.com/christian-bromann/dnd" alt="christian-bromann" />
+    </a>
 </p>
 
 <p align="center">
