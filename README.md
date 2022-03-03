@@ -7,7 +7,7 @@
 
 - 📝&nbsp;I regulary write articles in **[my blog](https://bromann.dev)**
 
-- 💬&nbsp;Ask me about **WebdriverIO / Test Automation / Node.js / TypeScript**
+- 💬&nbsp;Ask me about **WebdriverIO / Test Automation / VSCode Extension Development / Node.js / TypeScript**
 
 - ⚡&nbsp;Fun fact **I grew up on the country side in Germany next to 🐮 and 🐔**
 
