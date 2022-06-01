@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An Instant Development Environment for WebdriverIO](https://bromann.dev/post/development-environment-for-webdriverio/)
+- [The GitHub Action You Need to Publish VS Code Extensions](https://bromann.dev/post/vscode-github-action/)
 - [Sync App State across JS Sandboxes without Stumbling over postMessage &amp; onMessage Playing “Telephone”](https://bromann.dev/post/playing-the-telephone-game/)
 - [My First Website in the Local News at the Age of 16](https://bromann.dev/post/my-first-website/)
 - [Starting a new chapter at Stateful](https://bromann.dev/post/a-new-chapter/)
