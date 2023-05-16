@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Cross Browser Web Extensions in 2023 - The Ultimate Guide](https://bromann.dev/post/building-cross-browser-web-extensions-in-2023/)
 - [But it works on MY machine! Debugging GitHub Workflows with VS Code](https://bromann.dev/post/debugging-github-workflows-with-vs-code/)
 - [A Complete Guide to VS Code Extension Testing](https://bromann.dev/post/a-complete-guide-to-vs-code-extension-testing/)
 - [An Instant Development Environment for WebdriverIO](https://bromann.dev/post/development-environment-for-webdriverio/)
 - [The GitHub Action You Need to Publish VS Code Extensions](https://bromann.dev/post/vscode-github-action/)
-- [Sync App State across JS Sandboxes without Stumbling over postMessage &amp; onMessage Playing “Telephone”](https://bromann.dev/post/playing-the-telephone-game/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>
