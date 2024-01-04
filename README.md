@@ -54,15 +54,6 @@
 </p>
 
 <p align="center">
-    <a href="https://stateful.com/@christian-bromann" target="blank">
-        <img align="center" src="https://badge.stateful.com/christian-bromann/status.svg" alt="Stateful status for christian-bromann" />
-    </a>
-    <a href="https://stateful.com/@christian-bromann" target="blank">
-        <img align="center" src="https://badge.stateful.com/christian-bromann/dnd.svg" alt="Stateful status for christian-bromann" />
-    </a>
-</p>
-
-<p align="center">
     <a href="https://twitter.com/bromann" target="blank">
         <img align="center" src="https://img.shields.io/twitter/follow/bromann?style=social" alt="bromann" />
     </a>
